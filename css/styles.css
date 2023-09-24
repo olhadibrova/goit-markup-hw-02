@@ -73,7 +73,9 @@ a {
   
 }
 
-.header-contacts-link:hover,
+.header-contacts-link:hover{
+  color: #404bbf;
+}
 .header-contacts-link :focus {
  color: #404bbf;
 }
