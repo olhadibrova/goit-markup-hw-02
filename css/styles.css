@@ -74,7 +74,7 @@ a {
 }
 
 .header-contacts-link:hover,
-.header-contacts-link :focus {
+.header-contacts-link:focus {
  color: #404bbf;
 }
 
